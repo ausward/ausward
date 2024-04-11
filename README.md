@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**ausward/ausward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello I'm Austin Ward
+## I am a student and employee at Idaho State University
+ I am a computer Science major 
+ <br/>
+ ## I have taken classes in 
+ <ul>
+<li> Databases</li>
+   
+ <li> Object-Oriented Programming </li>
+ <li> Data Structures and Algorithms </li>
+ <li> Secure Networking</li>
+ <li> Cybersecurity </li>
+ <li> Software Development</li>
+ </ul>
