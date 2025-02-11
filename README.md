@@ -43,7 +43,5 @@ A tool for merging multiple PDF files into a single document, featuring a Python
 Check out the repository: [PDFCombiner on GitHub](https://github.com/ausward/PDFCombiner)
 
 
-# Contact
-Feel free to reach out to me at:
-- Email: [austin@scriptsandcrap.us](mailto:austin@scriptsandcrap.us)
+
 
