@@ -8,7 +8,10 @@ I am currently majoring in Software Engineering at Idaho State University. Some 
 - Software Development - Python with Flask 
 - Data Structures and Algorithms - Java, C++, C# with UWP
 - Database Management Systems - SQL with Postgres
-- Computer Architecture and organization - C & x86 assembly 
+- Computer Architecture and organization - C & x86 assembly
+- Operating Systems - xv6
+- Compilers
+- Mobile Application Development - kotlin on Android
 
 ## Professional Experience
 ### IT Support @ an Urgent Care Provider
@@ -16,6 +19,7 @@ I provide IT support at an Urgent Care Provider, where I am responsible for:
 - Troubleshooting hardware and software issues
 - Managing network configurations
 - Ensuring the smooth operation of IT systems
+- Manage camera systems 
 
 # Projects
 Here are some of my projects:
