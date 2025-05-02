@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: RUQYBJI8XLMJ9H2EJU4HRN182P7OO6OC -->
+
 # Hello, I'm Austin Ward
 
 ## About Me
