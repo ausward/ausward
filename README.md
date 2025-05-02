@@ -1,4 +1,4 @@
-<!-- GitAds-Verify: RUQYBJI8XLMJ9H2EJU4HRN182P7OO6OC -->
+
 
 # Hello, I'm Austin Ward
 
@@ -47,6 +47,11 @@ A tool for merging multiple PDF files into a single document, featuring a Python
   - **Makefile Support**: Simplifies the setup process with a single `make` command.
 
 Check out the repository: [PDFCombiner on GitHub](https://github.com/ausward/PDFCombiner)
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ausward/ausward@github)](https://gitads.dev/v1/ad-track?source=ausward/ausward@github)
+
+
 
 
 
