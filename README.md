@@ -3,7 +3,7 @@
 # Hello, I'm Austin Ward
 
 ## About Me
-I am a student at Idaho State University, pursuing a degree in Software Engineering. I am passionate about coding, problem-solving, and continuously learning new technologies.
+I am recent B.S. in SE grad from Idaho State University. I am passionate about coding, problem-solving, and continuously learning new technologies.
 
 ## Education
 I am currently majoring in Software Engineering at Idaho State University. Some of my favorite courses include:
