@@ -26,6 +26,18 @@ I provide IT support at an Urgent Care Provider, where I am responsible for:
 # Projects
 Here are some of my projects:
 
+## [Ninjio Reporting Tool](https://ninjio.reports.scriptsandcrap.us/)
+
+I created this tool to generate reports that I was tired of manually generating in Excel. 
+
+### Stack Used
+
+- Docker
+- Flask
+- Python
+
+Like It? Have Suggestions? [email me](mailto:austin@scriptsandcrap.us)
+
 ## [Cloudflare DNS Tool](https://github.com/ausward/Cloudflare_DNS_Tool)
 
 The Cloudflare DNS Tool is a Go-based utility designed to help users with dynamic IP addresses keep their Cloudflare DNS A records up to date.
