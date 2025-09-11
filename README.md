@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Austin Ward
+# Hello, I'm [Austin Ward](https://austinward.dev)
 
 ## About Me
 I am recent B.S. in SE grad from Idaho State University. I am passionate about coding, problem-solving, and continuously learning new technologies.
