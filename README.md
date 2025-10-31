@@ -3,7 +3,7 @@
 # Hello, I'm [Austin Ward](https://austinward.dev)
 
 ## About Me
-I am recent B.S. in SE grad from Idaho State University. I am passionate about coding, problem-solving, and continuously learning new technologies.
+I am a recent B.S. in SE grad from Idaho State University. I am passionate about coding, problem-solving, and continuously learning new technologies.
 
 ## Education
 I am currently majoring in Software Engineering at Idaho State University. Some of my favorite courses include:
@@ -25,6 +25,16 @@ I provide IT support at an Urgent Care Provider, where I am responsible for:
 
 # Projects
 Here are some of my projects:
+
+## [Job Map](https://jobmap.geospatial.social) 
+Born from my own lack of attention when scrolling through endless job lists on LinkedIn—this tool puts job postings on a map so you can actually stay engaged while searching.
+
+### Stack
+- React
+- Vite
+- Nginx `used to server the built react scripts`
+
+Like it? Have suggestions? [Send feedback](mailto:austin@pod-chive.com)
 
 ## [Pod-chive.com podcast archival system](https://pod-chive.com)
 
