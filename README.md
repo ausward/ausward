@@ -6,7 +6,7 @@
 I am a recent B.S. in SE grad from Idaho State University. I am passionate about coding, problem-solving, and continuously learning new technologies.
 
 ## Education
-I am currently majoring in Software Engineering at Idaho State University. Some of my favorite courses include:
+I have a BS in Software Engineering at Idaho State University. Some of my favorite courses include:
 - Software Development - Python with Flask 
 - Data Structures and Algorithms - Java, C++, C# with UWP
 - Database Management Systems - SQL with Postgres
@@ -16,7 +16,7 @@ I am currently majoring in Software Engineering at Idaho State University. Some 
 - Mobile Application Development - kotlin on Android
 
 ## Professional Experience
-### IT Support @ an Urgent Care Provider
+### IT Support @ an Urgent Care 
 I provide IT support at an Urgent Care Provider, where I am responsible for:
 - Troubleshooting hardware and software issues
 - Managing network configurations
